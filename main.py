@@ -104,7 +104,6 @@ def mainScreen():
     global popEntry
     global CheckVar1
     main = Tk()
-    main.iconbitmap('icon.ico')
     main.title("14 Week Calculator")
     main.geometry("512x512")
 
